@@ -30,9 +30,9 @@
 	</div>
 <div class="navsection templete">
 	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="about.html">About</a></li>	
-		<li><a id="active" href="contact.html">Contact</a></li>
+		<li><a href="index.php">Home</a></li>
+		<li><a href="about.php">About</a></li>	
+		<li><a id="active" href="contact.php">Contact</a></li>
 	</ul>
 </div>
 
@@ -89,10 +89,9 @@
 	<div class="footersection templete clear">
 	  <div class="footermenu clear">
 		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">About</a></li>
-			<li><a href="#">Contact</a></li>
-			<li><a href="#">Privacy</a></li>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="about.php">About</a></li>
+			<li><a href="contact.php">Contact</a></li>
 		</ul>
 	  </div>
 	  <p>&copy; Copyright Training with live project.</p>
